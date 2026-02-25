@@ -33,3 +33,7 @@ https://github.com/Alexandro-Eichstaedt/aulas_datascience.git
 #git push -u origin main
 #alternar para master
 #git switch master
+
+#git add . // para add todos update
+#git commmit -m "nota da atualizacao" // declarar oque foi modificado
+#git push // enviar
